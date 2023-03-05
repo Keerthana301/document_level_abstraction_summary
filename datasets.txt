@@ -1,0 +1,14 @@
+datasets
+
+1. Train dataset ::::
+               https://drive.google.com/file/d/19mimZe9lZu5VReELG7yfMkq2ZOje_CoU/view?usp=share_link         
+
+
+
+2.Test dataset ::::
+               https://drive.google.com/file/d/1C2e-2Jd2-elQR0tvVtM8a44duv112Ruu/view?usp=share_link
+
+
+
+3.Validation dataset ::::
+              https://drive.google.com/file/d/1gWnAGjOOsQa8yGHEzu2nYzmuaWUBRvJW/view?usp=share_link
